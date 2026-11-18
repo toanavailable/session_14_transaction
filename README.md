@@ -5,3 +5,4 @@ Tổng hợp bài tập và mindmap của Session 14. Mỗi bài là một thư 
 ## Danh sách bài
 
 - [Sự cố giao dịch chưa hoàn tất](./su-co-giao-dich-chua-hoan-tat/)
+- [Quản lý chuyển giường bệnh nhân](./chuyen-giuong-benh-nhan/)
