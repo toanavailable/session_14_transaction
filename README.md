@@ -8,3 +8,4 @@ Tổng hợp bài tập và mindmap của Session 14. Mỗi bài là một thư 
 - [Quản lý chuyển giường bệnh nhân](./chuyen-giuong-benh-nhan/)
 - [Kiểm soát giao dịch cấp phát thuốc](./kiem-soat-cap-phat-thuoc/)
 - [Chiến lược kiểm soát giao dịch thanh toán](./chien-luoc-giao-dich-thanh-toan/)
+- [Tự động hóa nhập viện khẩn cấp](./nhap-vien-khan-cap/)
