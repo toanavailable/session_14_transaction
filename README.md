@@ -10,3 +10,4 @@ Tổng hợp bài tập và mindmap của Session 14. Mỗi bài là một thư 
 - [Chiến lược kiểm soát giao dịch thanh toán](./chien-luoc-giao-dich-thanh-toan/)
 - [Tự động hóa nhập viện khẩn cấp](./nhap-vien-khan-cap/)
 - [Tự động hóa giao dịch thiết bị y tế](./giao-dich-thiet-bi-y-te/)
+- [Thực thi và kiểm soát giao dịch trong MySQL](./thuc-hanh-transaction/)
